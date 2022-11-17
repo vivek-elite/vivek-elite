@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: I have a YouTube channel where I teach web technologies to aspiring programmers. [![YouTube Badge]([https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHcR3wDEt9PE6zSYQBaY0zA)
+- :zap: I have a YouTube channel where I teach web technologies to aspiring programmers.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivekelite/)
 
